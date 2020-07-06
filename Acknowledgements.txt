@@ -14,5 +14,6 @@ Floating point map function
 https://gist.github.com/nadavmatalon/71ccaf154bc4bd71f811289e78c65918
 
 Reading Materials:
-Overview of Control Theory by Kevin Kerliu, Armaan Kohli, Leart Krasniqi, Shyam Paidipati
+Overview of Control Theory by Kevin Kerliu, Armaan Kohli, Leart Krasniqi, Shyam Paidipati, ELizabeth Paperno 
+
 
